@@ -1,0 +1,22 @@
+body{
+    background-color: #ffeaa7;
+}
+
+
+/* Navigation */
+.nav-items{
+    font-weight: bolder;
+}
+
+.main-img{
+    background-image: url("./Praveen_main.png");
+    height: 100vh;
+    width:100vh;
+
+}
+
+.btn-img{
+    background-image: url('./Praveen.png');
+    width:20%;
+    height: auto;
+}
